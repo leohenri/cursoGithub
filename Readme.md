@@ -5,4 +5,7 @@ Este é um teste.
 
 Inclui mais um informação importante.
 
-Esqueci de registrar mais esta informação
+Esqueci de registrar mais esta informação importante.
+
+
+Gostou do curso
